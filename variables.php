@@ -14,6 +14,8 @@
 	# variable 变量
 	$output = "Hello World!";
 	echo $output;
+	echo "<br>";
+	
 	/*
 		- 前缀 $
 		- 以字母/数字/下划线组成
